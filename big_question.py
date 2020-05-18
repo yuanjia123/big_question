@@ -238,4 +238,5 @@ def my_context_processor():
 
 if __name__ == '__main__':
     # host = "0.0.0.0",port = 8000
+	print("哇咔咔")
     app.run(debug=True,port = 8000)
