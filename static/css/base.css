@@ -1,0 +1,22 @@
+.logo{
+    width: 115%;
+    height: 240%;
+    margin-top: -14px;
+}
+/*给中间的格式加颜色*/
+.main{
+    background: #fff;
+    width: 730px;
+    /*清除浮动*/
+    overflow: hidden;
+    /*居中*/
+    margin: 0 auto;
+
+    /*内边距*/
+    padding: 10px;
+}
+
+/*给背景加颜色*/
+body{
+    background: #f3f3f3;
+}
